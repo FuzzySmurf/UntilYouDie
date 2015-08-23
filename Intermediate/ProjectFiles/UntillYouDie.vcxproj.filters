@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\UntillYouDie.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{1617D0BC-4875-4FAD-8561-55D38FC5A806}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\UntillYouDie.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\UntillYouDieEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{33E07C0E-2F39-4149-90DF-0321C63EC97F}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\UntillYouDie">
+			<UniqueIdentifier>{4067783F-278E-4A1C-97D3-7DCFD1829FCF}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\UntillYouDie\EntityGun.cpp">
+			<Filter>Source\UntillYouDie</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\UntillYouDie\EntityGun.h">
+			<Filter>Source\UntillYouDie</Filter>
+		</ClInclude >
+		<None Include="..\..\Source\UntillYouDie\UntillYouDie.Build.cs">
+			<Filter>Source\UntillYouDie</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\UntillYouDie\UntillYouDie.cpp">
+			<Filter>Source\UntillYouDie</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\UntillYouDie\UntillYouDie.h">
+			<Filter>Source\UntillYouDie</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
