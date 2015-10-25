@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+<RuntimeProperties>
+<Version>1</Version>
+<ProcessId>40536</ProcessId>
+<IsInternalBuild>0</IsInternalBuild>
+<IsPerforceBuild>0</IsPerforceBuild>
+<IsSourceDistribution>0</IsSourceDistribution>
+<GameName>UntillYouDie</GameName>
+<ExecutableName>UE4Editor</ExecutableName>
+<BuildConfiguration>Development</BuildConfiguration>
+<PlatformName>Windows</PlatformName>
+<PlatformNameIni>Windows</PlatformNameIni>
+<EngineMode>Editor</EngineMode>
+<EngineVersion>4.8.3-2634408+++depot+UE4-Releases+4.8</EngineVersion>
+<CommandLine> </CommandLine>
+<LanguageLCID>1033</LanguageLCID>
+<DefaultLocale>en_US</DefaultLocale>
+<IsUE4Release>1</IsUE4Release>
+<UserName></UserName>
+<BaseDir>C:/Program Files/Epic Games/4.8/Engine/Binaries/Win64/</BaseDir>
+<RootDir>C:/Program Files/Epic Games/4.8/</RootDir>
+<MachineId>A31BA3264848A500FD7A61B774733D6F</MachineId>
+<EpicAccountId>b44b97c3472c472d8bfc7ee3934f4c68</EpicAccountId>
+<CallStack></CallStack>
+<SourceContext></SourceContext>
+<UserDescription></UserDescription>
+<ErrorMessage></ErrorMessage>
+<MiscNumberOfCores>4</MiscNumberOfCores>
+<MiscNumberOfCoresIncludingHyperthreads>8</MiscNumberOfCoresIncludingHyperthreads>
+<MiscIs64bitOperatingSystem>1</MiscIs64bitOperatingSystem>
+<MiscCPUVendor>AuthenticAMD</MiscCPUVendor>
+<MiscCPUBrand>AMD FX(tm)-8120 Eight-Core Processor           </MiscCPUBrand>
+<MiscPrimaryGPUBrand>AMD Radeon R9 200 Series</MiscPrimaryGPUBrand>
+<MiscOSVersionMajor>Windows 8</MiscOSVersionMajor>
+<MiscOSVersionMinor></MiscOSVersionMinor>
+<MemoryStatsTotalPhysical>17121435648</MemoryStatsTotalPhysical>
+<MemoryStatsTotalVirtual>140737488224256</MemoryStatsTotalVirtual>
+<MemoryStatsPageSize>4096</MemoryStatsPageSize>
+<MemoryStatsTotalPhysicalGB>16</MemoryStatsTotalPhysicalGB>
+</RuntimeProperties>
+<PlatformProperties>
+<Platform.IsRunningWindows>1</Platform.IsRunningWindows>
+</PlatformProperties>
+</FGenericCrashContext>
