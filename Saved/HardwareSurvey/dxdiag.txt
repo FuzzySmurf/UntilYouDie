@@ -1,9 +1,9 @@
 ------------------
 System Information
 ------------------
-      Time of this report: 9/27/2015, 15:56:21
+      Time of this report: 10/27/2015, 20:50:36
              Machine name: ALEXMORENO-PC
-         Operating System: Windows 10 Pro 64-bit (10.0, Build 10240) (10240.th1.150819-1946)
+         Operating System: Windows 10 Pro 64-bit (10.0, Build 10240) (10240.th1.150930-1750)
                  Language: English (Regional Setting: English)
       System Manufacturer: To be filled by O.E.M.
              System Model: To be filled by O.E.M.
@@ -11,7 +11,7 @@ System Information
                 Processor: AMD FX(tm)-8120 Eight-Core Processor            (8 CPUs), ~3.3GHz
                    Memory: 16384MB RAM
       Available OS Memory: 16328MB RAM
-                Page File: 21338MB used, 11374MB available
+                Page File: 7700MB used, 25012MB available
               Windows Dir: C:\WINDOWS
           DirectX Version: 12
       DX Setup Parameters: Not found
@@ -48,7 +48,7 @@ DirectShow:  0/6 (retail)
 ---------------
 Display Devices
 ---------------
-          Card name: AMD Radeon R9 200 / HD 7900 Series
+          Card name: AMD Radeon R9 200 Series
        Manufacturer: Advanced Micro Devices, Inc.
           Chip type: AMD Radeon Graphics Processor (0x6798)
            DAC type: Internal DAC(400MHz)
@@ -65,7 +65,7 @@ Display Devices
         Output Type: HDMI
         Driver Name: aticfx64.dll,aticfx64.dll,aticfx64.dll,amdxc64.dll,aticfx32,aticfx32,aticfx32,amdxc32,atiumd64.dll,atidxx64.dll,atidxx64.dll,atiumdag,atidxx32,atidxx32,atiumdva,atiumd6a.cap,atitmm64.dll
 Driver File Version: 8.17.0010.1404 (English)
-     Driver Version: 15.200.1062.1004
+     Driver Version: 15.201.1151.0
         DDI Version: 12
      Feature Levels: 11.1,11.0,10.1,10.0,9.3,9.2,9.1
        Driver Model: WDDM 2.0
@@ -75,7 +75,7 @@ Graphics Preemption: DMA
 Hybrid Graphics GPU: Not Supported
      Power P-states: Not Supported
   Driver Attributes: Final Retail
-   Driver Date/Size: 8/21/2015 16:34:50, 1468224 bytes
+   Driver Date/Size: 10/21/2015 15:52:30, 1479808 bytes
         WHQL Logo'd: Yes
     WHQL Date Stamp: 
   Device Identifier: {D7B71EE2-24D8-11CF-9472-0B10BEC2C535}
@@ -83,8 +83,8 @@ Hybrid Graphics GPU: Not Supported
           Device ID: 0x6798
           SubSys ID: 0x30011458
         Revision ID: 0x0000
- Driver Strong Name: oem119.inf:cb0ae414ff1c3ccf:ati2mtag_R575:15.200.1062.1004:pci\ven_1002&dev_6798
-     Rank Of Driver: 00D12001
+ Driver Strong Name: oem125.inf:cb0ae41404d3fb84:ati2mtag_R575:15.201.1151.0:pci\ven_1002&dev_6798&subsys_30011458
+     Rank Of Driver: 00D10001
         Video Accel: ModeMPEG2_A ModeMPEG2_C 
         DXVA2 Modes: DXVA2_ModeMPEG2_VLD  DXVA2_ModeMPEG2_IDCT  DXVA2_ModeH264_VLD_NoFGT  DXVA2_ModeH264_VLD_Stereo_Progressive_NoFGT  DXVA2_ModeH264_VLD_Stereo_NoFGT  DXVA2_ModeVC1_VLD  DXVA2_ModeMPEG4pt2_VLD_AdvSimple_NoGMC  
    Deinterlace Caps: {6E8329FF-B642-418B-BCF0-BCB6591E255F}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,1) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
@@ -111,7 +111,7 @@ Hybrid Graphics GPU: Not Supported
          D3D Status: Enabled
          AGP Status: Enabled
 
-          Card name: AMD Radeon R9 200 / HD 7900 Series
+          Card name: AMD Radeon R9 200 Series
        Manufacturer: Advanced Micro Devices, Inc.
           Chip type: AMD Radeon Graphics Processor (0x6798)
            DAC type: Internal DAC(400MHz)
@@ -128,7 +128,7 @@ Hybrid Graphics GPU: Not Supported
         Output Type: DVI
         Driver Name: aticfx64.dll,aticfx64.dll,aticfx64.dll,amdxc64.dll,aticfx32,aticfx32,aticfx32,amdxc32,atiumd64.dll,atidxx64.dll,atidxx64.dll,atiumdag,atidxx32,atidxx32,atiumdva,atiumd6a.cap,atitmm64.dll
 Driver File Version: 8.17.0010.1404 (English)
-     Driver Version: 15.200.1062.1004
+     Driver Version: 15.201.1151.0
         DDI Version: 12
      Feature Levels: 11.1,11.0,10.1,10.0,9.3,9.2,9.1
        Driver Model: WDDM 2.0
@@ -138,7 +138,7 @@ Graphics Preemption: DMA
 Hybrid Graphics GPU: Not Supported
      Power P-states: Not Supported
   Driver Attributes: Final Retail
-   Driver Date/Size: 8/21/2015 16:34:50, 1468224 bytes
+   Driver Date/Size: 10/21/2015 15:52:30, 1479808 bytes
         WHQL Logo'd: Yes
     WHQL Date Stamp: 
   Device Identifier: {D7B71EE2-24D8-11CF-9472-0B10BEC2C535}
@@ -146,8 +146,8 @@ Hybrid Graphics GPU: Not Supported
           Device ID: 0x6798
           SubSys ID: 0x30011458
         Revision ID: 0x0000
- Driver Strong Name: oem119.inf:cb0ae414ff1c3ccf:ati2mtag_R575:15.200.1062.1004:pci\ven_1002&dev_6798
-     Rank Of Driver: 00D12001
+ Driver Strong Name: oem125.inf:cb0ae41404d3fb84:ati2mtag_R575:15.201.1151.0:pci\ven_1002&dev_6798&subsys_30011458
+     Rank Of Driver: 00D10001
         Video Accel: ModeMPEG2_A ModeMPEG2_C 
         DXVA2 Modes: DXVA2_ModeMPEG2_VLD  DXVA2_ModeMPEG2_IDCT  DXVA2_ModeH264_VLD_NoFGT  DXVA2_ModeH264_VLD_Stereo_Progressive_NoFGT  DXVA2_ModeH264_VLD_Stereo_NoFGT  DXVA2_ModeVC1_VLD  DXVA2_ModeMPEG4pt2_VLD_AdvSimple_NoGMC  
    Deinterlace Caps: {6E8329FF-B642-418B-BCF0-BCB6591E255F}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,1) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
@@ -367,7 +367,7 @@ USB Devices
 | Vendor/Product ID: 0x1002, 0x4397
 | Matching Device ID: USB\ROOT_HUB
 | Service: usbhub
-| Driver: usbhub.sys, 8/8/2015 22:23:11, 498016 bytes
+| Driver: usbhub.sys, 9/24/2015 21:01:05, 498016 bytes
 | Driver: usbd.sys, 7/10/2015 03:59:39, 29536 bytes
 | 
 +-+ USB Composite Device
@@ -421,7 +421,7 @@ USB Devices
 | Vendor/Product ID: 0x1B21, 0x1042
 | Matching Device ID: USB\ROOT_HUB30
 | Service: USBHUB3
-| Driver: USBHUB3.SYS, 8/2/2015 19:17:45, 516960 bytes
+| Driver: USBHUB3.SYS, 9/16/2015 23:48:22, 516448 bytes
 | 
 +-+ USB Composite Device
 | | Vendor/Product ID: 0x046D, 0xC22D
@@ -471,7 +471,7 @@ PS/2 Devices
 Disk & DVD/CD-ROM Drives
 ------------------------
       Drive: C:
- Free Space: 61.9 GB
+ Free Space: 58.9 GB
 Total Space: 243.6 GB
 File System: NTFS
       Model: Samsung SSD 840 PRO Seri SATA Disk Device
@@ -483,7 +483,7 @@ File System: NTFS
       Model: ST2000DM 001-9YN164 SATA Disk Device
 
       Drive: G:
- Free Space: 1768.7 GB
+ Free Space: 1765.9 GB
 Total Space: 1907.6 GB
 File System: NTFS
       Model: ST2000DM 001-9YN164 SATA Disk Device
@@ -519,25 +519,25 @@ Device ID: PCI\VEN_1B21&DEV_1042&SUBSYS_84881043&REV_00\4&1C9B094&0&0038
 Device ID: PCI\VEN_1002&DEV_4399&SUBSYS_43991002&REV_00\3&267A616A&0&A5
    Driver: C:\WINDOWS\system32\drivers\usbohci.sys, 10.00.10240.16384 (English), 7/10/2015 03:59:39, 29184 bytes
    Driver: C:\WINDOWS\system32\drivers\usbport.sys, 10.00.10240.16384 (English), 7/10/2015 03:59:39, 457056 bytes
-   Driver: C:\WINDOWS\system32\drivers\usbhub.sys, 10.00.10240.16401 (English), 8/8/2015 22:23:11, 498016 bytes
+   Driver: C:\WINDOWS\system32\drivers\usbhub.sys, 10.00.10240.16542 (English), 9/24/2015 21:01:05, 498016 bytes
 
      Name: Standard OpenHCD USB Host Controller
 Device ID: PCI\VEN_1002&DEV_4397&SUBSYS_43971002&REV_00\3&267A616A&0&B0
    Driver: C:\WINDOWS\system32\drivers\usbohci.sys, 10.00.10240.16384 (English), 7/10/2015 03:59:39, 29184 bytes
    Driver: C:\WINDOWS\system32\drivers\usbport.sys, 10.00.10240.16384 (English), 7/10/2015 03:59:39, 457056 bytes
-   Driver: C:\WINDOWS\system32\drivers\usbhub.sys, 10.00.10240.16401 (English), 8/8/2015 22:23:11, 498016 bytes
+   Driver: C:\WINDOWS\system32\drivers\usbhub.sys, 10.00.10240.16542 (English), 9/24/2015 21:01:05, 498016 bytes
 
      Name: Standard OpenHCD USB Host Controller
 Device ID: PCI\VEN_1002&DEV_4397&SUBSYS_43971002&REV_00\3&267A616A&0&98
    Driver: C:\WINDOWS\system32\drivers\usbohci.sys, 10.00.10240.16384 (English), 7/10/2015 03:59:39, 29184 bytes
    Driver: C:\WINDOWS\system32\drivers\usbport.sys, 10.00.10240.16384 (English), 7/10/2015 03:59:39, 457056 bytes
-   Driver: C:\WINDOWS\system32\drivers\usbhub.sys, 10.00.10240.16401 (English), 8/8/2015 22:23:11, 498016 bytes
+   Driver: C:\WINDOWS\system32\drivers\usbhub.sys, 10.00.10240.16542 (English), 9/24/2015 21:01:05, 498016 bytes
 
      Name: Standard OpenHCD USB Host Controller
 Device ID: PCI\VEN_1002&DEV_4397&SUBSYS_43971002&REV_00\3&267A616A&0&90
    Driver: C:\WINDOWS\system32\drivers\usbohci.sys, 10.00.10240.16384 (English), 7/10/2015 03:59:39, 29184 bytes
    Driver: C:\WINDOWS\system32\drivers\usbport.sys, 10.00.10240.16384 (English), 7/10/2015 03:59:39, 457056 bytes
-   Driver: C:\WINDOWS\system32\drivers\usbhub.sys, 10.00.10240.16401 (English), 8/8/2015 22:23:11, 498016 bytes
+   Driver: C:\WINDOWS\system32\drivers\usbhub.sys, 10.00.10240.16542 (English), 9/24/2015 21:01:05, 498016 bytes
 
      Name: PCI standard host CPU bridge
 Device ID: PCI\VEN_1022&DEV_1604&SUBSYS_00000000&REV_00\3&267A616A&0&C4
@@ -563,13 +563,13 @@ Device ID: PCI\VEN_1002&DEV_4384&SUBSYS_00000000&REV_40\3&267A616A&0&A4
 Device ID: PCI\VEN_1002&DEV_AAA0&SUBSYS_AAA01458&REV_00\4&14E8F4CB&0&0110
    Driver: C:\WINDOWS\system32\DRIVERS\hdaudbus.sys, 10.00.10240.16384 (English), 7/10/2015 03:59:36, 80896 bytes
    Driver: C:\WINDOWS\system32\drivers\drmk.sys, 10.00.10240.16384 (English), 7/10/2015 03:59:36, 96768 bytes
-   Driver: C:\WINDOWS\system32\drivers\portcls.sys, 10.00.10240.16384 (English), 7/10/2015 03:59:36, 320512 bytes
+   Driver: C:\WINDOWS\system32\drivers\portcls.sys, 10.00.10240.16515 (English), 9/16/2015 22:50:33, 320000 bytes
 
      Name: High Definition Audio Controller
 Device ID: PCI\VEN_1002&DEV_4383&SUBSYS_84DB1043&REV_40\3&267A616A&0&A2
    Driver: C:\WINDOWS\system32\DRIVERS\hdaudbus.sys, 10.00.10240.16384 (English), 7/10/2015 03:59:36, 80896 bytes
    Driver: C:\WINDOWS\system32\drivers\drmk.sys, 10.00.10240.16384 (English), 7/10/2015 03:59:36, 96768 bytes
-   Driver: C:\WINDOWS\system32\drivers\portcls.sys, 10.00.10240.16384 (English), 7/10/2015 03:59:36, 320512 bytes
+   Driver: C:\WINDOWS\system32\drivers\portcls.sys, 10.00.10240.16515 (English), 9/16/2015 22:50:33, 320000 bytes
 
      Name: PCI standard host CPU bridge
 Device ID: PCI\VEN_1022&DEV_1602&SUBSYS_00000000&REV_00\3&267A616A&0&C2
@@ -596,140 +596,142 @@ Device ID: PCI\VEN_1B21&DEV_0612&SUBSYS_84B71043&REV_01\4&2799F330&0&0020
 Device ID: PCI\VEN_1002&DEV_5A18&SUBSYS_5A141002&REV_00\3&267A616A&0&20
    Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.10240.16390 (English), 8/8/2015 22:23:11, 325984 bytes
 
-     Name: AMD Radeon R9 200 / HD 7900 Series
+     Name: AMD Radeon R9 200 Series
 Device ID: PCI\VEN_1002&DEV_6798&SUBSYS_30011458&REV_00\4&14E8F4CB&0&0010
-   Driver: C:\WINDOWS\system32\DRIVERS\atikmdag.sys, 8.01.0001.1500 (English), 8/21/2015 16:34:50, 21632992 bytes
-   Driver: C:\WINDOWS\system32\DRIVERS\ati2erec.dll, 1.00.0000.0024 (English), 8/21/2015 16:34:50, 52208 bytes
-   Driver: C:\WINDOWS\system32\atiumd64.dll, 9.14.0010.1128 (English), 8/21/2015 16:34:51, 8865496 bytes
-   Driver: C:\WINDOWS\system32\atiumd6a.dll, 8.14.0010.0513 (English), 8/21/2015 16:34:51, 8979760 bytes
-   Driver: C:\WINDOWS\system32\atitmm64.dll, 6.14.0011.0025 (English), 8/21/2015 16:34:51, 201184 bytes
-   Driver: C:\WINDOWS\system32\amdpcom64.dll, 8.14.0010.0023 (English), 8/21/2015 16:34:47, 88000 bytes
-   Driver: C:\WINDOWS\system32\atimpc64.dll, 8.14.0010.0023 (English), 8/21/2015 16:34:50, 89520 bytes
-   Driver: C:\WINDOWS\system32\atiadlxx.dll, 7.15.0020.1301 (English), 8/21/2015 16:34:50, 1257952 bytes
-   Driver: C:\WINDOWS\system32\atiumd6a.cap, 8/21/2015 16:34:51, 3437632 bytes
-   Driver: C:\WINDOWS\system32\atimuixx.dll, 6.14.0010.1002 (English), 8/21/2015 16:34:50, 39904 bytes
-   Driver: C:\WINDOWS\system32\atiapfxx.exe, 6.14.0010.1001 (English), 8/21/2015 16:34:50, 377312 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\atikmdag.sys, 8.01.0001.1500 (English), 10/21/2015 15:52:31, 21648880 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\ati2erec.dll, 1.00.0000.0024 (English), 10/21/2015 15:52:30, 52208 bytes
+   Driver: C:\WINDOWS\system32\atiumd64.dll, 9.14.0010.1128 (English), 10/21/2015 15:52:31, 8864920 bytes
+   Driver: C:\WINDOWS\system32\atiumd6a.dll, 8.14.0010.0513 (English), 10/21/2015 15:52:31, 8982440 bytes
+   Driver: C:\WINDOWS\system32\atitmm64.dll, 6.14.0011.0025 (English), 10/21/2015 15:52:31, 199664 bytes
+   Driver: C:\WINDOWS\system32\amdpcom64.dll, 8.14.0010.0023 (English), 10/21/2015 15:52:30, 88000 bytes
+   Driver: C:\WINDOWS\system32\atimpc64.dll, 8.14.0010.0023 (English), 10/21/2015 15:52:31, 87992 bytes
+   Driver: C:\WINDOWS\system32\atiadlxx.dll, 7.15.0020.1301 (English), 10/21/2015 15:52:30, 1256432 bytes
+   Driver: C:\WINDOWS\system32\atiumd6a.cap, 10/21/2015 15:52:31, 3437632 bytes
+   Driver: C:\WINDOWS\system32\atimuixx.dll, 6.14.0010.1002 (English), 10/21/2015 15:52:31, 38384 bytes
+   Driver: C:\WINDOWS\system32\atiapfxx.exe, 6.14.0010.1001 (English), 10/21/2015 15:52:30, 375792 bytes
    Driver: C:\WINDOWS\system32\ativvsva.dat, 7/16/2015 01:22:02, 157144 bytes
    Driver: C:\WINDOWS\system32\ativvsvl.dat, 7/16/2015 01:22:02, 204952 bytes
    Driver: C:\WINDOWS\system32\ativvaxy_cik.dat, 5/29/2015 01:00:42, 234420 bytes
    Driver: C:\WINDOWS\system32\ativvaxy_cik_nd.dat, 5/29/2015 00:58:32, 232752 bytes
-   Driver: C:\WINDOWS\system32\ativce02.dat, 7/6/2015 19:33:20, 100816 bytes
-   Driver: C:\WINDOWS\system32\amdmmcl6.dll, 1.06.0000.0000 (English), 8/21/2015 16:34:45, 59376 bytes
-   Driver: C:\WINDOWS\system32\atiesrxx.exe, 6.14.0011.1199 (English), 8/21/2015 16:34:50, 256992 bytes
-   Driver: C:\WINDOWS\system32\atieclxx.exe, 6.14.0011.1199 (English), 8/21/2015 16:34:50, 681456 bytes
-   Driver: C:\WINDOWS\system32\atidemgy.dll, 4.05.5693.26310 (English), 8/21/2015 16:34:50, 452576 bytes
-   Driver: C:\WINDOWS\system32\atio6axx.dll, 6.14.0010.13399 (English), 8/21/2015 16:34:51, 30760944 bytes
-   Driver: C:\WINDOWS\system32\aticalrt64.dll, 6.14.0010.1848 (English), 8/21/2015 16:34:50, 71152 bytes
-   Driver: C:\WINDOWS\system32\aticalcl64.dll, 6.14.0010.1848 (English), 8/21/2015 16:34:50, 64496 bytes
-   Driver: C:\WINDOWS\system32\aticaldd64.dll, 6.14.0010.1848 (English), 8/21/2015 16:34:50, 15727072 bytes
-   Driver: C:\WINDOWS\system32\atiapfxx.blb, 8/21/2015 16:34:50, 660928 bytes
-   Driver: C:\WINDOWS\system32\amdmiracast.dll, 8/21/2015 16:34:45, 472832 bytes
-   Driver: C:\WINDOWS\system32\amdhdl64.dll, 8/21/2015 16:34:44, 143344 bytes
-   Driver: C:\WINDOWS\system32\hsa-thunk64.dll, 8/21/2015 16:34:54, 111600 bytes
-   Driver: C:\WINDOWS\system32\amdmantle64.dll, 9.01.0010.0077 (English), 8/21/2015 16:34:45, 6486000 bytes
-   Driver: C:\WINDOWS\system32\mantle64.dll, 9.01.0010.0077 (English), 8/21/2015 16:34:54, 136176 bytes
-   Driver: C:\WINDOWS\system32\mantleaxl64.dll, 9.01.0010.0077 (English), 8/21/2015 16:34:54, 102384 bytes
-   Driver: C:\WINDOWS\system32\ativce03.dat, 7/13/2015 15:19:20, 169152 bytes
+   Driver: C:\WINDOWS\system32\ativce02.dat, 10/21/2015 15:52:31, 100816 bytes
+   Driver: C:\WINDOWS\system32\amdmmcl6.dll, 1.06.0000.0000 (English), 10/21/2015 15:52:27, 59376 bytes
+   Driver: C:\WINDOWS\system32\atiesrxx.exe, 6.14.0011.1199 (English), 10/21/2015 15:52:31, 255472 bytes
+   Driver: C:\WINDOWS\system32\atieclxx.exe, 6.14.0011.1199 (English), 10/21/2015 15:52:30, 683504 bytes
+   Driver: C:\WINDOWS\system32\atidemgy.dll, 4.05.5711.37472 (English), 10/21/2015 15:52:30, 451056 bytes
+   Driver: C:\WINDOWS\system32\atio6axx.dll, 6.14.0010.13399 (English), 10/21/2015 15:52:31, 30776304 bytes
+   Driver: C:\WINDOWS\system32\aticalrt64.dll, 6.14.0010.1848 (English), 10/21/2015 15:52:30, 71152 bytes
+   Driver: C:\WINDOWS\system32\aticalcl64.dll, 6.14.0010.1848 (English), 10/21/2015 15:52:30, 64496 bytes
+   Driver: C:\WINDOWS\system32\aticaldd64.dll, 6.14.0010.1848 (English), 10/21/2015 15:52:30, 15725552 bytes
+   Driver: C:\WINDOWS\system32\atiapfxx.blb, 10/21/2015 15:52:30, 662392 bytes
+   Driver: C:\WINDOWS\system32\amdhdl64.dll, 10/21/2015 15:52:27, 143344 bytes
+   Driver: C:\WINDOWS\system32\hsa-thunk64.dll, 10/21/2015 15:52:34, 111600 bytes
+   Driver: C:\WINDOWS\system32\amdmantle64.dll, 9.01.0010.0083 (English), 10/21/2015 15:52:27, 6686192 bytes
+   Driver: C:\WINDOWS\system32\mantle64.dll, 9.01.0010.0083 (English), 10/21/2015 15:52:34, 136176 bytes
+   Driver: C:\WINDOWS\system32\mantleaxl64.dll, 9.01.0010.0083 (English), 10/21/2015 15:52:34, 103408 bytes
+   Driver: C:\WINDOWS\system32\ativce03.dat, 10/21/2015 15:52:31, 177344 bytes
    Driver: C:\WINDOWS\system32\ativvaxy_vi.dat, 5/29/2015 01:10:58, 322868 bytes
    Driver: C:\WINDOWS\system32\ativvaxy_vi_nd.dat, 5/29/2015 01:08:18, 321200 bytes
    Driver: C:\WINDOWS\system32\ativvaxy_cz_nd.dat, 5/29/2015 01:21:32, 255808 bytes
-   Driver: C:\WINDOWS\system32\amde31a.dat, 7/13/2015 15:19:34, 167456 bytes
-   Driver: C:\WINDOWS\system32\detoured.dll, 2.01.0000.0207 (English), 8/21/2015 16:34:54, 12784 bytes
-   Driver: C:\WINDOWS\system32\amdgfxinfo64.dll, 8/21/2015 16:34:44, 213488 bytes
-   Driver: C:\WINDOWS\system32\atieah64.exe, 8/21/2015 16:34:50, 170464 bytes
+   Driver: C:\WINDOWS\system32\amde31a.dat, 10/21/2015 15:52:27, 175648 bytes
+   Driver: C:\WINDOWS\system32\detoured.dll, 2.01.0000.0207 (English), 10/21/2015 15:52:34, 12784 bytes
+   Driver: C:\WINDOWS\system32\amdgfxinfo64.dll, 10/21/2015 15:52:27, 213488 bytes
+   Driver: C:\WINDOWS\system32\atieah64.exe, 10/21/2015 15:52:30, 168944 bytes
    Driver: C:\WINDOWS\system32\ativvaxy_FJ.dat, 5/29/2015 01:17:24, 250884 bytes
    Driver: C:\WINDOWS\system32\ativvaxy_FJ_nd.dat, 5/29/2015 01:15:12, 249088 bytes
-   Driver: C:\WINDOWS\system32\amdocl12cl64.dll, 0.08.0000.0000 (English), 8/21/2015 16:34:46, 27544560 bytes
-   Driver: C:\WINDOWS\system32\amdicdxx.dat, 7/10/2015 07:40:12, 833798 bytes
+   Driver: C:\WINDOWS\system32\amdocl12cl64.dll, 0.08.0000.0000 (English), 10/21/2015 15:52:28, 27544560 bytes
+   Driver: C:\WINDOWS\system32\amdicdxx.dat, 10/21/2015 15:52:27, 833800 bytes
    Driver: C:\WINDOWS\system32\atiicdxx.dat, 11/6/2014 10:53:26, 737410 bytes
-   Driver: C:\WINDOWS\system32\atidxx64.dll, 8.17.0010.0625 (English), 8/21/2015 16:34:50, 12062040 bytes
-   Driver: C:\WINDOWS\SysWOW64\atiumdag.dll, 9.14.0010.1128 (English), 8/21/2015 16:34:51, 7482560 bytes
-   Driver: C:\WINDOWS\SysWOW64\atiumdva.dll, 8.14.0010.0513 (English), 8/21/2015 16:34:51, 8009344 bytes
-   Driver: C:\WINDOWS\SysWOW64\amdpcom32.dll, 8.14.0010.0023 (English), 8/21/2015 16:34:47, 82680 bytes
-   Driver: C:\WINDOWS\SysWOW64\atimpc32.dll, 8.14.0010.0023 (English), 8/21/2015 16:34:50, 81160 bytes
-   Driver: C:\WINDOWS\SysWOW64\atiadlxy.dll, 7.15.0020.1301 (English), 8/21/2015 16:34:50, 936928 bytes
-   Driver: C:\WINDOWS\SysWOW64\atiadlxx.dll, 7.15.0020.1301 (English), 8/21/2015 16:34:50, 936928 bytes
-   Driver: C:\WINDOWS\SysWOW64\atiumdva.cap, 8/21/2015 16:34:51, 3471376 bytes
+   Driver: C:\WINDOWS\system32\amdlvr64.dll, 1.00.0003.0008 (English), 10/21/2015 15:52:27, 631280 bytes
+   Driver: C:\WINDOWS\system32\amdmiracast.dll, 10/21/2015 15:52:27, 471312 bytes
+   Driver: C:\WINDOWS\system32\atidxx64.dll, 8.17.0010.0625 (English), 10/21/2015 15:52:30, 12088000 bytes
+   Driver: C:\WINDOWS\SysWOW64\atiumdag.dll, 9.14.0010.1128 (English), 10/21/2015 15:52:31, 7482552 bytes
+   Driver: C:\WINDOWS\SysWOW64\atiumdva.dll, 8.14.0010.0513 (English), 10/21/2015 15:52:31, 8009360 bytes
+   Driver: C:\WINDOWS\SysWOW64\amdpcom32.dll, 8.14.0010.0023 (English), 10/21/2015 15:52:30, 81168 bytes
+   Driver: C:\WINDOWS\SysWOW64\atimpc32.dll, 8.14.0010.0023 (English), 10/21/2015 15:52:31, 81160 bytes
+   Driver: C:\WINDOWS\SysWOW64\atiadlxy.dll, 7.15.0020.1301 (English), 10/21/2015 15:52:30, 935408 bytes
+   Driver: C:\WINDOWS\SysWOW64\atiadlxx.dll, 7.15.0020.1301 (English), 10/21/2015 15:52:30, 935408 bytes
+   Driver: C:\WINDOWS\SysWOW64\atiumdva.cap, 10/21/2015 15:52:31, 3471376 bytes
    Driver: C:\WINDOWS\SysWOW64\ativvsva.dat, 7/16/2015 01:22:02, 157144 bytes
    Driver: C:\WINDOWS\SysWOW64\ativvsvl.dat, 7/16/2015 01:22:02, 204952 bytes
-   Driver: C:\WINDOWS\SysWOW64\amdmmcl.dll, 1.06.0000.0000 (English), 8/21/2015 16:34:45, 49632 bytes
-   Driver: C:\WINDOWS\SysWOW64\atioglxx.dll, 6.14.0010.13399 (English), 8/21/2015 16:34:51, 25308656 bytes
-   Driver: C:\WINDOWS\SysWOW64\atidxx32.dll, 8.17.0010.0625 (English), 8/21/2015 16:34:50, 10191264 bytes
-   Driver: C:\WINDOWS\SysWOW64\aticalrt.dll, 6.14.0010.1848 (English), 8/21/2015 16:34:50, 62432 bytes
-   Driver: C:\WINDOWS\SysWOW64\aticalcl.dll, 6.14.0010.1848 (English), 8/21/2015 16:34:50, 59360 bytes
-   Driver: C:\WINDOWS\SysWOW64\aticaldd.dll, 6.14.0010.1848 (English), 8/21/2015 16:34:50, 14312416 bytes
-   Driver: C:\WINDOWS\SysWOW64\atiapfxx.blb, 8/21/2015 16:34:50, 660928 bytes
-   Driver: C:\WINDOWS\SysWOW64\amdhdl32.dll, 8/21/2015 16:34:44, 132080 bytes
-   Driver: C:\WINDOWS\SysWOW64\hsa-thunk.dll, 8/21/2015 16:34:54, 111088 bytes
-   Driver: C:\WINDOWS\SysWOW64\amdmantle32.dll, 9.01.0010.0077 (English), 8/21/2015 16:34:45, 5076976 bytes
-   Driver: C:\WINDOWS\SysWOW64\mantle32.dll, 9.01.0010.0077 (English), 8/21/2015 16:34:54, 122352 bytes
-   Driver: C:\WINDOWS\SysWOW64\mantleaxl32.dll, 9.01.0010.0077 (English), 8/21/2015 16:34:54, 95216 bytes
-   Driver: C:\WINDOWS\SysWOW64\detoured.dll, 2.01.0000.0207 (English), 8/21/2015 16:34:54, 12784 bytes
-   Driver: C:\WINDOWS\SysWOW64\amdgfxinfo32.dll, 8/21/2015 16:34:44, 198640 bytes
-   Driver: C:\WINDOWS\SysWOW64\atieah32.exe, 8/21/2015 16:34:50, 152560 bytes
-   Driver: C:\WINDOWS\SysWOW64\amdocl12cl.dll, 0.08.0000.0000 (English), 8/21/2015 16:34:46, 22328800 bytes
-   Driver: C:\WINDOWS\system32\ATIODCLI.exe, 1.00.0000.0001 (English), 8/21/2015 16:34:51, 61408 bytes
-   Driver: C:\WINDOWS\system32\ATIODE.exe, 1.00.0000.0001 (English), 8/21/2015 16:34:51, 341488 bytes
-   Driver: C:\WINDOWS\system32\atisamu64.dll, 7.01.0000.0001 (English), 8/21/2015 16:34:51, 99296 bytes
-   Driver: C:\WINDOWS\system32\amdhcp64.dll, 1.00.0000.0001 (English), 8/21/2015 16:34:44, 153456 bytes
-   Driver: C:\WINDOWS\system32\kapp_ci.sbin, 5/6/2015 19:02:30, 47664 bytes
-   Driver: C:\WINDOWS\system32\kapp_si.sbin, 5/6/2015 18:52:44, 43408 bytes
+   Driver: C:\WINDOWS\SysWOW64\amdmmcl.dll, 1.06.0000.0000 (English), 10/21/2015 15:52:27, 48112 bytes
+   Driver: C:\WINDOWS\SysWOW64\atioglxx.dll, 6.14.0010.13399 (English), 10/21/2015 15:52:31, 25320432 bytes
+   Driver: C:\WINDOWS\SysWOW64\atidxx32.dll, 8.17.0010.0625 (English), 10/21/2015 15:52:30, 10211008 bytes
+   Driver: C:\WINDOWS\SysWOW64\aticalrt.dll, 6.14.0010.1848 (English), 10/21/2015 15:52:30, 60912 bytes
+   Driver: C:\WINDOWS\SysWOW64\aticalcl.dll, 6.14.0010.1848 (English), 10/21/2015 15:52:30, 57840 bytes
+   Driver: C:\WINDOWS\SysWOW64\aticaldd.dll, 6.14.0010.1848 (English), 10/21/2015 15:52:30, 14310896 bytes
+   Driver: C:\WINDOWS\SysWOW64\atiapfxx.blb, 10/21/2015 15:52:30, 662392 bytes
+   Driver: C:\WINDOWS\SysWOW64\amdhdl32.dll, 10/21/2015 15:52:27, 132080 bytes
+   Driver: C:\WINDOWS\SysWOW64\hsa-thunk.dll, 10/21/2015 15:52:34, 111088 bytes
+   Driver: C:\WINDOWS\SysWOW64\amdmantle32.dll, 9.01.0010.0083 (English), 10/21/2015 15:52:27, 5216240 bytes
+   Driver: C:\WINDOWS\SysWOW64\mantle32.dll, 9.01.0010.0083 (English), 10/21/2015 15:52:34, 122352 bytes
+   Driver: C:\WINDOWS\SysWOW64\mantleaxl32.dll, 9.01.0010.0083 (English), 10/21/2015 15:52:34, 96752 bytes
+   Driver: C:\WINDOWS\SysWOW64\detoured.dll, 2.01.0000.0207 (English), 10/21/2015 15:52:34, 12784 bytes
+   Driver: C:\WINDOWS\SysWOW64\amdgfxinfo32.dll, 10/21/2015 15:52:27, 198640 bytes
+   Driver: C:\WINDOWS\SysWOW64\atieah32.exe, 10/21/2015 15:52:30, 152560 bytes
+   Driver: C:\WINDOWS\SysWOW64\amdocl12cl.dll, 0.08.0000.0000 (English), 10/21/2015 15:52:28, 22327280 bytes
+   Driver: C:\WINDOWS\SysWOW64\amdlvr32.dll, 1.00.0003.0008 (English), 10/21/2015 15:52:27, 524272 bytes
+   Driver: C:\WINDOWS\system32\ATIODCLI.exe, 1.00.0000.0001 (English), 10/21/2015 15:52:31, 59888 bytes
+   Driver: C:\WINDOWS\system32\ATIODE.exe, 1.00.0000.0001 (English), 10/21/2015 15:52:31, 341488 bytes
+   Driver: C:\WINDOWS\system32\atisamu64.dll, 7.01.0000.0001 (English), 10/21/2015 15:52:31, 97776 bytes
+   Driver: C:\WINDOWS\system32\amdhcp64.dll, 1.00.0000.0001 (English), 10/21/2015 15:52:27, 151936 bytes
+   Driver: C:\WINDOWS\system32\kapp_ci.sbin, 10/21/2015 15:52:34, 47664 bytes
+   Driver: C:\WINDOWS\system32\kapp_si.sbin, 10/21/2015 15:52:34, 43536 bytes
    Driver: C:\WINDOWS\system32\samu_krnl_ci.sbin, 6/18/2014 17:28:18, 140240 bytes
    Driver: C:\WINDOWS\system32\samu_krnl_isv_ci.sbin, 12/12/2013 13:53:56, 138832 bytes
-   Driver: C:\WINDOWS\system32\amdave64.dll, 8.04.0006.0000 (English), 8/21/2015 16:34:44, 117600 bytes
-   Driver: C:\WINDOWS\SysWOW64\amdave32.dll, 8.04.0006.0000 (English), 8/21/2015 16:34:44, 111832 bytes
-   Driver: C:\WINDOWS\SysWOW64\atisamu32.dll, 7.01.0000.0001 (English), 8/21/2015 16:34:51, 91104 bytes
-   Driver: C:\WINDOWS\SysWOW64\amdhcp32.dll, 1.00.0000.0001 (English), 8/21/2015 16:34:44, 138384 bytes
-   Driver: C:\WINDOWS\system32\DRIVERS\atikmpag.sys, 8.14.0001.6463 (English), 8/21/2015 16:34:50, 675296 bytes
-   Driver: C:\WINDOWS\system32\atiu9p64.dll, 8.14.0001.6463 (English), 8/21/2015 16:34:51, 131592 bytes
-   Driver: C:\WINDOWS\system32\atiuxp64.dll, 8.14.0001.6463 (English), 8/21/2015 16:34:51, 162240 bytes
-   Driver: C:\WINDOWS\system32\atig6txx.dll, 8.14.0001.6463 (English), 8/21/2015 16:34:50, 165360 bytes
-   Driver: C:\WINDOWS\system32\atiglpxx.dll, 8.14.0001.6463 (English), 8/21/2015 16:34:50, 78320 bytes
-   Driver: C:\WINDOWS\system32\aticfx64.dll, 8.17.0010.1404 (English), 8/21/2015 16:34:50, 1468224 bytes
-   Driver: C:\WINDOWS\system32\amdxc64.dll, 8.18.0010.0041 (English), 8/21/2015 16:34:49, 9191312 bytes
-   Driver: C:\WINDOWS\SysWOW64\aticfx32.dll, 8.17.0010.1404 (English), 8/21/2015 16:34:50, 1213192 bytes
-   Driver: C:\WINDOWS\SysWOW64\amdxc32.dll, 8.18.0010.0041 (English), 8/21/2015 16:34:49, 7575664 bytes
-   Driver: C:\Program Files\AMD\CCC2\Install\ccc2_install.exe, 8.97.0100.0300 (English), 8/21/2015 16:34:54, 90325280 bytes
-   Driver: C:\WINDOWS\system32\OpenCL.dll, 2.00.0004.0000 (English), 8/21/2015 16:34:49, 73712 bytes
-   Driver: C:\WINDOWS\system32\amdocl64.dll, 10.00.1800.0008 (English), 8/21/2015 16:34:46, 47795680 bytes
-   Driver: C:\WINDOWS\system32\amdocl_as64.exe, 8/21/2015 16:34:47, 1196032 bytes
-   Driver: C:\WINDOWS\system32\amdocl_ld64.exe, 8/21/2015 16:34:47, 1070592 bytes
-   Driver: C:\WINDOWS\system32\clinfo.exe, 8/21/2015 16:34:54, 243696 bytes
-   Driver: C:\WINDOWS\SysWOW64\OpenCL.dll, 2.00.0004.0000 (English), 8/21/2015 16:34:49, 69600 bytes
-   Driver: C:\WINDOWS\SysWOW64\amdocl.dll, 10.00.1800.0008 (English), 8/21/2015 16:34:45, 39723504 bytes
-   Driver: C:\WINDOWS\SysWOW64\amdocl_as32.exe, 8/21/2015 16:34:47, 1005552 bytes
-   Driver: C:\WINDOWS\SysWOW64\amdocl_ld32.exe, 8/21/2015 16:34:47, 807424 bytes
-   Driver: C:\Program Files\AMD\amdkmpfd\amdkmpfd.stz, 8.14.0001.6028 (English), 8/21/2015 16:34:45, 82672 bytes
+   Driver: C:\WINDOWS\system32\amdave64.dll, 8.04.0006.0000 (English), 10/21/2015 15:52:27, 117600 bytes
+   Driver: C:\WINDOWS\SysWOW64\amdave32.dll, 8.04.0006.0000 (English), 10/21/2015 15:52:27, 110312 bytes
+   Driver: C:\WINDOWS\SysWOW64\atisamu32.dll, 7.01.0000.0001 (English), 10/21/2015 15:52:31, 89584 bytes
+   Driver: C:\WINDOWS\SysWOW64\amdhcp32.dll, 1.00.0000.0001 (English), 10/21/2015 15:52:27, 138376 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\atikmpag.sys, 8.14.0001.6463 (English), 10/21/2015 15:52:31, 674288 bytes
+   Driver: C:\WINDOWS\system32\atiu9p64.dll, 8.14.0001.6463 (English), 10/21/2015 15:52:31, 130072 bytes
+   Driver: C:\WINDOWS\system32\atiuxp64.dll, 8.14.0001.6463 (English), 10/21/2015 15:52:31, 162232 bytes
+   Driver: C:\WINDOWS\system32\atig6txx.dll, 8.14.0001.6463 (English), 10/21/2015 15:52:31, 165360 bytes
+   Driver: C:\WINDOWS\system32\atiglpxx.dll, 8.14.0001.6463 (English), 10/21/2015 15:52:31, 78320 bytes
+   Driver: C:\WINDOWS\system32\aticfx64.dll, 8.17.0010.1404 (English), 10/21/2015 15:52:30, 1479808 bytes
+   Driver: C:\WINDOWS\system32\amdxc64.dll, 8.18.0010.0044 (English), 10/21/2015 15:52:30, 9355016 bytes
+   Driver: C:\WINDOWS\SysWOW64\aticfx32.dll, 8.17.0010.1404 (English), 10/21/2015 15:52:30, 1223552 bytes
+   Driver: C:\WINDOWS\SysWOW64\amdxc32.dll, 8.18.0010.0044 (English), 10/21/2015 15:52:30, 7683096 bytes
+   Driver: C:\Program Files\AMD\CCC2\Install\ccc2_install.exe, 8.97.0100.0300 (English), 10/21/2015 15:52:34, 96749536 bytes
+   Driver: C:\WINDOWS\system32\OpenCL.dll, 2.00.0004.0000 (English), 10/21/2015 15:52:30, 73712 bytes
+   Driver: C:\WINDOWS\system32\amdocl64.dll, 10.00.1800.0011 (English), 10/21/2015 15:52:29, 47794160 bytes
+   Driver: C:\WINDOWS\system32\amdocl_as64.exe, 10/21/2015 15:52:29, 1196032 bytes
+   Driver: C:\WINDOWS\system32\amdocl_ld64.exe, 10/21/2015 15:52:30, 1070592 bytes
+   Driver: C:\WINDOWS\system32\clinfo.exe, 10/21/2015 15:52:34, 243696 bytes
+   Driver: C:\WINDOWS\SysWOW64\OpenCL.dll, 2.00.0004.0000 (English), 10/21/2015 15:52:30, 68080 bytes
+   Driver: C:\WINDOWS\SysWOW64\amdocl.dll, 10.00.1800.0011 (English), 10/21/2015 15:52:28, 39712768 bytes
+   Driver: C:\WINDOWS\SysWOW64\amdocl_as32.exe, 10/21/2015 15:52:29, 1004032 bytes
+   Driver: C:\WINDOWS\SysWOW64\amdocl_ld32.exe, 10/21/2015 15:52:30, 807424 bytes
+   Driver: C:\Program Files\AMD\amdkmpfd\amdkmpfd.stz, 8.14.0001.6028 (English), 10/21/2015 15:52:27, 82664 bytes
    Driver: C:\Program Files\AMD\amdkmpfd\amdkmpfd.itz, 6/4/2015 01:56:58, 1988 bytes
    Driver: C:\Program Files\AMD\amdkmpfd\amdkmpfd.ctz, 6/4/2015 02:05:54, 9805 bytes
-   Driver: C:\WINDOWS\system32\atig6pxx.dll, 8.14.0001.6463 (English), 8/21/2015 16:34:50, 85472 bytes
-   Driver: C:\WINDOWS\SysWOW64\atiu9pag.dll, 8.14.0001.6463 (English), 8/21/2015 16:34:51, 113880 bytes
-   Driver: C:\WINDOWS\SysWOW64\atiuxpag.dll, 8.14.0001.6463 (English), 8/21/2015 16:34:51, 143048 bytes
-   Driver: C:\WINDOWS\SysWOW64\atigktxx.dll, 8.14.0001.6463 (English), 8/21/2015 16:34:50, 152032 bytes
-   Driver: C:\WINDOWS\SysWOW64\atiglpxx.dll, 8.14.0001.6463 (English), 8/21/2015 16:34:50, 78320 bytes
-   Driver: C:\Program Files\Common Files\ATI Technologies\Multimedia\AMDh264Enc32.dll, 15.20.1062.1004 (English), 8/21/2015 16:34:44, 933248 bytes
-   Driver: C:\Program Files\Common Files\ATI Technologies\Multimedia\AMDh264Enc64.dll, 15.20.1062.1004 (English), 8/21/2015 16:34:44, 1116128 bytes
-   Driver: C:\Program Files\Common Files\ATI Technologies\Multimedia\AMDhwDecoder_32.dll, 1.00.0000.0001 (English), 8/21/2015 16:34:44, 217584 bytes
-   Driver: C:\Program Files\Common Files\ATI Technologies\Multimedia\AMDhwDecoder_64.dll, 1.00.0000.0001 (English), 8/21/2015 16:34:44, 254960 bytes
-   Driver: C:\WINDOWS\system32\coinst_15.20.dll, 1.00.0005.0009 (English), 8/21/2015 16:34:54, 874480 bytes
+   Driver: C:\WINDOWS\system32\atig6pxx.dll, 8.14.0001.6463 (English), 10/21/2015 15:52:31, 83952 bytes
+   Driver: C:\WINDOWS\SysWOW64\atiu9pag.dll, 8.14.0001.6463 (English), 10/21/2015 15:52:31, 112360 bytes
+   Driver: C:\WINDOWS\SysWOW64\atiuxpag.dll, 8.14.0001.6463 (English), 10/21/2015 15:52:31, 143048 bytes
+   Driver: C:\WINDOWS\SysWOW64\atigktxx.dll, 8.14.0001.6463 (English), 10/21/2015 15:52:31, 150512 bytes
+   Driver: C:\WINDOWS\SysWOW64\atiglpxx.dll, 8.14.0001.6463 (English), 10/21/2015 15:52:31, 78320 bytes
+   Driver: C:\Program Files\Common Files\ATI Technologies\Multimedia\AMDh264Enc32.dll, 15.201.1151.0000 (English), 10/21/2015 15:52:27, 931728 bytes
+   Driver: C:\Program Files\Common Files\ATI Technologies\Multimedia\AMDh264Enc64.dll, 15.201.1151.0000 (English), 10/21/2015 15:52:27, 1116120 bytes
+   Driver: C:\Program Files\Common Files\ATI Technologies\Multimedia\AMDhwDecoder_32.dll, 1.00.0000.0001 (English), 10/21/2015 15:52:27, 217584 bytes
+   Driver: C:\Program Files\Common Files\ATI Technologies\Multimedia\AMDhwDecoder_64.dll, 1.00.0000.0001 (English), 10/21/2015 15:52:27, 254960 bytes
+   Driver: C:\WINDOWS\system32\coinst_15.20.dll, 1.00.0005.0009 (English), 10/21/2015 15:52:34, 874480 bytes
 
      Name: Standard Enhanced PCI to USB Host Controller
 Device ID: PCI\VEN_1002&DEV_4396&SUBSYS_43961002&REV_00\3&267A616A&0&B2
    Driver: C:\WINDOWS\system32\drivers\usbehci.sys, 10.00.10240.16384 (English), 7/10/2015 03:59:39, 95584 bytes
    Driver: C:\WINDOWS\system32\drivers\usbport.sys, 10.00.10240.16384 (English), 7/10/2015 03:59:39, 457056 bytes
-   Driver: C:\WINDOWS\system32\drivers\usbhub.sys, 10.00.10240.16401 (English), 8/8/2015 22:23:11, 498016 bytes
+   Driver: C:\WINDOWS\system32\drivers\usbhub.sys, 10.00.10240.16542 (English), 9/24/2015 21:01:05, 498016 bytes
 
      Name: Standard Enhanced PCI to USB Host Controller
 Device ID: PCI\VEN_1002&DEV_4396&SUBSYS_43961002&REV_00\3&267A616A&0&9A
    Driver: C:\WINDOWS\system32\drivers\usbehci.sys, 10.00.10240.16384 (English), 7/10/2015 03:59:39, 95584 bytes
    Driver: C:\WINDOWS\system32\drivers\usbport.sys, 10.00.10240.16384 (English), 7/10/2015 03:59:39, 457056 bytes
-   Driver: C:\WINDOWS\system32\drivers\usbhub.sys, 10.00.10240.16401 (English), 8/8/2015 22:23:11, 498016 bytes
+   Driver: C:\WINDOWS\system32\drivers\usbhub.sys, 10.00.10240.16542 (English), 9/24/2015 21:01:05, 498016 bytes
 
      Name: Standard Enhanced PCI to USB Host Controller
 Device ID: PCI\VEN_1002&DEV_4396&SUBSYS_43961002&REV_00\3&267A616A&0&92
    Driver: C:\WINDOWS\system32\drivers\usbehci.sys, 10.00.10240.16384 (English), 7/10/2015 03:59:39, 95584 bytes
    Driver: C:\WINDOWS\system32\drivers\usbport.sys, 10.00.10240.16384 (English), 7/10/2015 03:59:39, 457056 bytes
-   Driver: C:\WINDOWS\system32\drivers\usbhub.sys, 10.00.10240.16401 (English), 8/8/2015 22:23:11, 498016 bytes
+   Driver: C:\WINDOWS\system32\drivers\usbhub.sys, 10.00.10240.16542 (English), 9/24/2015 21:01:05, 498016 bytes
 
      Name: PCI standard ISA bridge
 Device ID: PCI\VEN_1002&DEV_439D&SUBSYS_439D1002&REV_40\3&267A616A&0&A3
@@ -775,7 +777,7 @@ WM ASF Reader,0x00400000,0,0,qasf.dll,12.00.10240.16384
 AVI Splitter,0x00600000,1,1,quartz.dll,10.00.10240.16384
 VGA 16 Color Ditherer,0x00400000,1,1,quartz.dll,10.00.10240.16384
 SBE2MediaTypeProfile,0x00200000,0,0,sbe.dll,10.00.10240.16384
-Microsoft DTV-DVD Video Decoder,0x005fffff,2,4,msmpeg2vdec.dll,12.00.10132.0000
+Microsoft DTV-DVD Video Decoder,0x005fffff,2,4,msmpeg2vdec.dll,12.00.10255.0000
 AC3 Parser Filter,0x00600000,1,1,mpg2splt.ax,10.00.10240.16384
 StreamBufferSink,0x00200000,0,0,sbe.dll,10.00.10240.16384
 MJPEG Decompressor,0x00600000,1,1,quartz.dll,10.00.10240.16384
@@ -996,18 +998,18 @@ Media Foundation Transforms
 
 Video Decoders:
   AMD D3D11 Hardware MFT Playback Decoder, {17796AEB-0F66-4663-B8FB-99CBEE0224CE}, 0x4, 8, AMDhwDecoder_64.dll, 1.00.0000.0001
-  Microsoft MPEG Video Decoder MFT, {2D709E52-123F-49B5-9CBC-9AF5CDE28FB9}, 0x1, msmpeg2vdec.dll, 12.00.10132.0000
+  Microsoft MPEG Video Decoder MFT, {2D709E52-123F-49B5-9CBC-9AF5CDE28FB9}, 0x1, msmpeg2vdec.dll, 12.00.10255.0000
   DV Decoder MFT, {404A6DE5-D4D6-4260-9BC7-5A6CBD882432}, 0x1, mfdvdec.dll, 10.00.10240.16384
-  Microsoft H265 Video Decoder MFT, {420A51A3-D605-430C-B4FC-45274FA6C562}, 0x1, hevcdecoder.dll, 10.00.10240.16384
+  Microsoft H265 Video Decoder MFT, {420A51A3-D605-430C-B4FC-45274FA6C562}, 0x1, hevcdecoder.dll, 10.00.10240.16515
   Mpeg4s Decoder MFT, CLSID_CMpeg4sDecMFT, 0x1, mp4sdecd.dll, 10.00.10240.16384
-  Microsoft H264 Video Decoder MFT, CLSID_CMSH264DecoderMFT, 0x1, msmpeg2vdec.dll, 12.00.10132.0000
+  Microsoft H264 Video Decoder MFT, CLSID_CMSH264DecoderMFT, 0x1, msmpeg2vdec.dll, 12.00.10255.0000
   WMV Screen decoder MFT, CLSID_CMSSCDecMediaObject, 0x1, wmvsdecd.dll, 10.00.10240.16384
   WMVideo Decoder MFT, CLSID_CWMVDecMediaObject, 0x1, wmvdecod.dll, 10.00.10240.16384
   MJPEG Decoder MFT, {CB17E772-E1CC-4633-8450-5617AF577905}, 0x1, mfmjpegdec.dll, 10.00.10240.16384
   Mpeg43 Decoder MFT, CLSID_CMpeg43DecMediaObject, 0x1, mp43decd.dll, 10.00.10240.16384
   Mpeg4 Decoder MFT, CLSID_CMpeg4DecMediaObject, 0x1, mpg4decd.dll, 10.00.10240.16384
 Video Encoders:
-  AMDh264Encoder, {ADC9BC80-0F41-46C6-AB75-D693D793597D}, 0x4, 8, AMDh264Enc64.dll, 15.20.1062.1004
+  AMDh264Encoder, {ADC9BC80-0F41-46C6-AB75-D693D793597D}, 0x4, 8, AMDh264Enc64.dll, 15.201.1151.0000
   H264 Encoder MFT, {6CA50344-051A-4DED-9779-A43305165E35}, 0x1, mfh264enc.dll, 10.00.10240.16384
   WMVideo8 Encoder MFT, CLSID_CWMVXEncMediaObject, 0x1, wmvxencd.dll, 10.00.10240.16384
   H263 Encoder MFT, {BC47FCFE-98A0-4F27-BB07-698AF24F2B38}, 0x1, mfh263enc.dll, 10.00.10240.16384
@@ -1027,20 +1029,20 @@ Audio Decoders:
   MS AMRNB Decoder MFT, {265011AE-5481-4F77-A295-ABB6FFE8D63E}, 0x1, MSAMRNBDecoder.dll, 10.00.10240.16384
   WMAudio Decoder MFT, CLSID_CWMADecMediaObject, 0x1, WMADMOD.DLL, 10.00.10240.16384
   Microsoft AAC Audio Decoder MFT, CLSID_CMSAACDecMFT, 0x1, MSAudDecMFT.dll, 10.00.10240.16384
-  A-law Wrapper MFT, {36CB6E0C-78C1-42B2-9943-846262F31786}, 0x1, mfcore.dll, 12.00.10240.16431
-  GSM ACM Wrapper MFT, {4A76B469-7B66-4DD4-BA2D-DDF244C766DC}, 0x1, mfcore.dll, 12.00.10240.16431
+  A-law Wrapper MFT, {36CB6E0C-78C1-42B2-9943-846262F31786}, 0x1, mfcore.dll, 12.00.10240.16515
+  GSM ACM Wrapper MFT, {4A76B469-7B66-4DD4-BA2D-DDF244C766DC}, 0x1, mfcore.dll, 12.00.10240.16515
   WMAPro over S/PDIF MFT, CLSID_CWMAudioSpdTxDMO, 0x1, WMADMOD.DLL, 10.00.10240.16384
   Microsoft FLAC Audio Decoder MFT, {6B0B3E6B-A2C5-4514-8055-AFE8A95242D9}, 0x1, MSFlacDecoder.dll, 10.00.10240.16384
   Microsoft MPEG Audio Decoder MFT, {70707B39-B2CA-4015-ABEA-F8447D22D88B}, 0x1, MSAudDecMFT.dll, 10.00.10240.16384
   WMSpeech Decoder DMO, CLSID_CWMSPDecMediaObject, 0x1, WMSPDMOD.DLL, 10.00.10240.16384
-  G711 Wrapper MFT, {92B66080-5E2D-449E-90C4-C41F268E5514}, 0x1, mfcore.dll, 12.00.10240.16431
-  IMA ADPCM ACM Wrapper MFT, {A16E1BFF-A80D-48AD-AECD-A35C005685FE}, 0x1, mfcore.dll, 12.00.10240.16431
+  G711 Wrapper MFT, {92B66080-5E2D-449E-90C4-C41F268E5514}, 0x1, mfcore.dll, 12.00.10240.16515
+  IMA ADPCM ACM Wrapper MFT, {A16E1BFF-A80D-48AD-AECD-A35C005685FE}, 0x1, mfcore.dll, 12.00.10240.16515
   MP3 Decoder MFT, CLSID_CMP3DecMediaObject, 0x1, mp3dmod.dll, 10.00.10240.16384
   Microsoft ALAC Audio Decoder MFT, {C0CD7D12-31FC-4BBC-B363-7322EE3E1879}, 0x1, MSAlacDecoder.dll, 10.00.10240.16384
-  ADPCM ACM Wrapper MFT, {CA34FE0A-5722-43AD-AF23-05F7650257DD}, 0x1, mfcore.dll, 12.00.10240.16431
+  ADPCM ACM Wrapper MFT, {CA34FE0A-5722-43AD-AF23-05F7650257DD}, 0x1, mfcore.dll, 12.00.10240.16515
 Audio Encoders:
-  LPCM DVD-Audio MFT, {068A8476-9229-4CC0-9D49-2FC699DCD30A}, 0x1, winmde.dll, 12.00.10240.16412
-  MP3 Encoder ACM Wrapper MFT, {11103421-354C-4CCA-A7A3-1AFF9A5B6701}, 0x1, mfcore.dll, 12.00.10240.16431
+  LPCM DVD-Audio MFT, {068A8476-9229-4CC0-9D49-2FC699DCD30A}, 0x1, winmde.dll, 12.00.10240.16515
+  MP3 Encoder ACM Wrapper MFT, {11103421-354C-4CCA-A7A3-1AFF9A5B6701}, 0x1, mfcore.dll, 12.00.10240.16515
   Microsoft FLAC Audio Encoder MFT, {128509E9-C44E-45DC-95E9-C255B8F466A6}, 0x1, MSFlacEncoder.dll, 10.00.10240.16384
   WM Speech Encoder DMO, CLSID_CWMSPEncMediaObject2, 0x1, WMSPDMOE.DLL, 10.00.10240.16384
   MS AMRNB Encoder MFT, {2FAE8AFE-04A3-423A-A814-85DB454712B0}, 0x1, MSAMRNBEncoder.dll, 10.00.10240.16384
@@ -1055,7 +1057,7 @@ Audio Effects:
 Multiplexers:
   Microsoft MPEG2 Multiplexer MFT, {AB300F71-01AB-46D2-AB6C-64906CB03258}, 0x2, mfmpeg2srcsnk.dll, 12.00.10240.16412
 Others:
-  Microsoft H264 Video Remux (MPEG2TSToMP4) MFT, {05A47EBB-8BF0-4CBF-AD2F-3B71D75866F5}, 0x1, msmpeg2vdec.dll, 12.00.10132.0000
+  Microsoft H264 Video Remux (MPEG2TSToMP4) MFT, {05A47EBB-8BF0-4CBF-AD2F-3B71D75866F5}, 0x1, msmpeg2vdec.dll, 12.00.10255.0000
 
 
 --------------------------------------------
@@ -1321,35 +1323,16 @@ Problem signature:
 P1: UE4-UntillYouDie
 P2: 4.8.3
 P3: 55b6944a
-P4: UE4Editor-Engine.dll
+P4: UE4Editor-CoreUObject.dll
 P5: 4.8.3
-P6: 55b692e8
+P6: 55b690e9
 P7: c0000005
-P8: 0000000000BA96E0
-P9: !"G:\Development\UntilYouDie\UntillYouDie.uproject" !AssertLog=""
+P8: 00000000002238D6
+P9: !"G:\Development\UntilYouDie\UntillYouDie.uproject" !AssertLog="Fatal error: [File:D:\BuildFarm\buildmachine_++depot+UE4-Releases+4.8\Engine\Source\Runtime\Core\Private\Windows\WindowsRunnableThread.cpp] [Line: 42] #Runnable thread TaskGraphThread 0 crashed.#
 P10: ++depot+UE4-Releases+4.8!C:/Program Files/Epic Games/4.8/Engine/Binaries/Win64/!Editor!2634408
 
 
 +++ WER1 +++:
-Fault bucket , type 0
-Event Name: APPCRASH
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: UE4-UntillYouDie
-P2: 4.8.3
-P3: 55b6944a
-P4: UE4Editor-Engine.dll
-P5: 4.8.3
-P6: 55b692e8
-P7: c0000005
-P8: 0000000000BA96E0
-P9: !"G:\Development\UntilYouDie\UntillYouDie.uproject" !AssertLog=""
-P10: ++depot+UE4-Releases+4.8!C:/Program Files/Epic Games/4.8/Engine/Binaries/Win64/!Editor!2634408
-
-
-+++ WER2 +++:
 Fault bucket , type 0
 Event Name: APPCRASH
 Response: Not available
@@ -1364,7 +1347,26 @@ P5: 10.0.10240
 P6: 559f38c3
 P7: 00000001
 P8: 000000000002A1C8
-P9: !"G:/Development/UntilYouDie/UntillYouDie.uproject"!AssertLog="Ensure condition failed: NewObject->IsA(this->GeneratedClass) [File:D:\BuildFarm\buildmachine_++depot+UE4-Releases+4.8\Engine\Source\Runtime\Engine\Private\Blueprint.cpp] [Line: 634] #Type mismatc
+P9: !"G:\Development\UntilYouDie\UntillYouDie.uproject" !AssertLog="Assertion failed: Obj [File:D:\BuildFarm\buildmachine_++depot+UE4-Releases+4.8\Engine\Source\Editor\UnrealEd\Classes/Editor/Transactor.h] [Line: 158] ##"
+P10: ++depot+UE4-Releases+4.8!C:/Program Files/Epic Games/4.8/Engine/Binaries/Win64/!Editor!2634408
+
+
++++ WER2 +++:
+Fault bucket , type 0
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: UE4-UntillYouDie
+P2: 4.8.3
+P3: 55b6944a
+P4: UE4Editor-Engine.dll
+P5: 4.8.3
+P6: 55b692e8
+P7: c0000005
+P8: 0000000000BA96E0
+P9: !"G:\Development\UntilYouDie\UntillYouDie.uproject" !AssertLog=""
 P10: ++depot+UE4-Releases+4.8!C:/Program Files/Epic Games/4.8/Engine/Binaries/Win64/!Editor!2634408
 
 
@@ -1383,7 +1385,7 @@ P5: 10.0.10240
 P6: 559f38c3
 P7: 00000001
 P8: 000000000002A1C8
-P9: !"G:/Development/UntilYouDie/UntillYouDie.uproject"!AssertLog="Ensure condition failed: false [File:D:\BuildFarm\buildmachine_++depot+UE4-Releases+4.8\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 866] #Error: Invalid (but non
+P9: !"G:\Development\UntilYouDie\UntillYouDie.uproject" !AssertLog="Ensure condition failed: false [File:D:\BuildFarm\buildmachine_++depot+UE4-Releases+4.8\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 866] #Error: Invalid (but no
 P10: ++depot+UE4-Releases+4.8!C:/Program Files/Epic Games/4.8/Engine/Binaries/Win64/!Editor!2634408
 
 
@@ -1402,7 +1404,7 @@ P5: 10.0.10240
 P6: 559f38c3
 P7: 00000001
 P8: 000000000002A1C8
-P9: !"G:/Development/UntilYouDie/UntillYouDie.uproject"!AssertLog="Assertion failed: !bHasBegunPlay [File:D:\BuildFarm\buildmachine_++depot+UE4-Releases+4.8\Engine\Source\Runtime\Engine\Private\Components\ActorComponent.cpp] [Line: 610] ##"
+P9: !"G:\Development\UntilYouDie\UntillYouDie.uproject" !AssertLog="Ensure condition failed: CustomizationClassInstancesPendingDelete[i].IsUnique() [File:D:\BuildFarm\buildmachine_++depot+UE4-Releases+4.8\Engine\Source\Editor\PropertyEditor\Private\SDetailsViewBa
 P10: ++depot+UE4-Releases+4.8!C:/Program Files/Epic Games/4.8/Engine/Binaries/Win64/!Editor!2634408
 
 
@@ -1421,46 +1423,46 @@ P5: 10.0.10240
 P6: 559f38c3
 P7: 00000001
 P8: 000000000002A1C8
-P9: !"G:\Development\UntilYouDie\UntillYouDie.uproject" !AssertLog="Ensure condition failed: NewObject->IsA(this->GeneratedClass) [File:D:\BuildFarm\buildmachine_++depot+UE4-Releases+4.8\Engine\Source\Runtime\Engine\Private\Blueprint.cpp] [Line: 634] #Type mismat
+P9: !"G:\Development\UntilYouDie\UntillYouDie.uproject" !AssertLog="Ensure condition failed: !GetClass()->HasAnyClassFlags(CLASS_NewerVersionExists) [File:D:\BuildFarm\buildmachine_++depot+UE4-Releases+4.8\Engine\Source\Runtime\CoreUObject\Private\UObject\ScriptC
 P10: ++depot+UE4-Releases+4.8!C:/Program Files/Epic Games/4.8/Engine/Binaries/Win64/!Editor!2634408
 
 
 +++ WER6 +++:
-Fault bucket 128915262834, type 5
-Event Name: RADAR_PRE_LEAK_64
+Fault bucket , type 0
+Event Name: APPCRASH
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: HeroesOfTheStorm_x64.exe
-P2: 13.4.0.37795
-P3: 10.0.10240.2.0.0
-P4: 
-P5: 
-P6: 
-P7: 
-P8: 
-P9: 
-P10: 
+P1: UE4-UntillYouDie
+P2: 4.8.3
+P3: 55b6944a
+P4: KERNELBASE.dll
+P5: 10.0.10240
+P6: 559f38c3
+P7: 00000001
+P8: 000000000002A1C8
+P9: !"G:\Development\UntilYouDie\UntillYouDie.uproject" !AssertLog="Ensure condition failed: !GetClass()->HasAnyClassFlags(CLASS_NewerVersionExists) [File:D:\BuildFarm\buildmachine_++depot+UE4-Releases+4.8\Engine\Source\Runtime\CoreUObject\Private\UObject\ScriptC
+P10: ++depot+UE4-Releases+4.8!C:/Program Files/Epic Games/4.8/Engine/Binaries/Win64/!Editor!2634408
 
 
 +++ WER7 +++:
-Fault bucket 91056168225, type 5
-Event Name: CompatEntityAnalysis_1
+Fault bucket , type 0
+Event Name: APPCRASH
 Response: Not available
-Cab Id: 1
+Cab Id: 0
 
 Problem signature:
-P1: 48
-P2: 2
-P3: 10.0.0.0
-P4: 1033
-P5: 30
-P6: 
-P7: 
-P8: 
-P9: 
-P10: 
+P1: UE4-UntillYouDie
+P2: 4.8.3
+P3: 55b6944a
+P4: KERNELBASE.dll
+P5: 10.0.10240
+P6: 559f38c3
+P7: 00000001
+P8: 000000000002A1C8
+P9: !"G:\Development\UntilYouDie\UntillYouDie.uproject" !AssertLog="Ensure condition failed: !GetClass()->HasAnyClassFlags(CLASS_NewerVersionExists) [File:D:\BuildFarm\buildmachine_++depot+UE4-Releases+4.8\Engine\Source\Runtime\CoreUObject\Private\UObject\ScriptC
+P10: ++depot+UE4-Releases+4.8!C:/Program Files/Epic Games/4.8/Engine/Binaries/Win64/!Editor!2634408
 
 
 +++ WER8 +++:
@@ -1473,12 +1475,12 @@ Problem signature:
 P1: UE4-UntillYouDie
 P2: 4.8.3
 P3: 55b6944a
-P4: UE4Editor-Engine.dll
-P5: 4.8.3
-P6: 55b692e8
-P7: c0000005
-P8: 0000000000BA96E0
-P9: !"G:\Development\UntilYouDie\UntillYouDie.uproject" !AssertLog=""
+P4: KERNELBASE.dll
+P5: 10.0.10240
+P6: 559f38c3
+P7: 00000001
+P8: 000000000002A1C8
+P9: !"G:\Development\UntilYouDie\UntillYouDie.uproject" !AssertLog="Ensure condition failed: !GetClass()->HasAnyClassFlags(CLASS_NewerVersionExists) [File:D:\BuildFarm\buildmachine_++depot+UE4-Releases+4.8\Engine\Source\Runtime\CoreUObject\Private\UObject\ScriptC
 P10: ++depot+UE4-Releases+4.8!C:/Program Files/Epic Games/4.8/Engine/Binaries/Win64/!Editor!2634408
 
 
@@ -1492,12 +1494,12 @@ Problem signature:
 P1: UE4-UntillYouDie
 P2: 4.8.3
 P3: 55b6944a
-P4: UE4Editor-Engine.dll
-P5: 4.8.3
-P6: 55b692e8
-P7: c0000005
-P8: 0000000000BA96E0
-P9: !"G:\Development\UntilYouDie\UntillYouDie.uproject" !AssertLog=""
+P4: KERNELBASE.dll
+P5: 10.0.10240
+P6: 559f38c3
+P7: 00000001
+P8: 000000000002A1C8
+P9: !"G:\Development\UntilYouDie\UntillYouDie.uproject" !AssertLog="Ensure condition failed: !GetClass()->HasAnyClassFlags(CLASS_NewerVersionExists) [File:D:\BuildFarm\buildmachine_++depot+UE4-Releases+4.8\Engine\Source\Runtime\CoreUObject\Private\UObject\ScriptC
 P10: ++depot+UE4-Releases+4.8!C:/Program Files/Epic Games/4.8/Engine/Binaries/Win64/!Editor!2634408
 
 
